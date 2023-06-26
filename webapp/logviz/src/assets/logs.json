@@ -1,0 +1,1004 @@
+[
+    {
+        "service": "service-A",
+        "level": "ERROR",
+        "logs": [
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "error message 5",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 13",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 2",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 12",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 7",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 10",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "error message 8",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "error message 6",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 19",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 6",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 1",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "level": "WARN",
+                    "message": "warning message 1",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 15",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 16",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 5",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 14",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "error message 2",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 17",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 8",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 4",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "error message 9",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "error message 4",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "error message 7",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "level": "WARN",
+                    "message": "warning message 4",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "error message 1",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "level": "WARN",
+                    "message": "warning message 0",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "level": "WARN",
+                    "message": "warning message 2",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "level": "WARN",
+                    "message": "warning message 3",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "error message 3",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "error message 0",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 3",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 11",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 0",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 18",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 9",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "error message 6",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 5",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 14",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "error message 5",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "error message 7",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 18",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 19",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 3",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 8",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "level": "WARN",
+                    "message": "warning message 2",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 1",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 7",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 16",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "error message 1",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "error message 3",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 9",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 2",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "level": "WARN",
+                    "message": "warning message 3",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 15",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "level": "WARN",
+                    "message": "warning message 1",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "error message 0",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 10",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 11",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "error message 2",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 6",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 0",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "level": "WARN",
+                    "message": "warning message 4",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 12",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 4",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "error message 4",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 13",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "error message 8",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "ERROR",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "error message 9",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "message": "info message 17",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "service": "service-A",
+                    "logTimestamp": "2023-04-05T06:56:49.354215Z",
+                    "level": "WARN",
+                    "message": "warning message 0",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            }
+        ]
+    },
+    {
+        "service": "service-B",
+        "level": "INFO",
+        "logs": [
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 4",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 8",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 2",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 5",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 7",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 3",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 0",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 9",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 1",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-03-30T09:51:26.746311Z",
+                    "message": "info message 6",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-04-05T06:56:49.354837Z",
+                    "message": "info message 5",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-04-05T06:56:49.354837Z",
+                    "message": "info message 9",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-04-05T06:56:49.354837Z",
+                    "message": "info message 2",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-04-05T06:56:49.354837Z",
+                    "message": "info message 3",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-04-05T06:56:49.354837Z",
+                    "message": "info message 7",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-04-05T06:56:49.354837Z",
+                    "message": "info message 4",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-04-05T06:56:49.354837Z",
+                    "message": "info message 6",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-04-05T06:56:49.354837Z",
+                    "message": "info message 1",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-04-05T06:56:49.354837Z",
+                    "message": "info message 0",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            },
+            {
+                "logDetails": {
+                    "app": "my-app",
+                    "level": "INFO",
+                    "service": "service-B",
+                    "logTimestamp": "2023-04-05T06:56:49.354837Z",
+                    "message": "info message 8",
+                    "LogCorrelationId": "id001",
+                    "loggerName": "my-logger"
+                }
+            }
+        ]
+    }
+]
